@@ -3,7 +3,7 @@ onload = () => {
     const c = setTimeout(() => {
       document.body.classList.remove("not-loaded");
   
-      const titles = ('I LOVE U FEYYINA ').split('')
+      const titles = ('Fresh Flower Buat Kamu').split('')
       const titleElement = document.getElementById('title');
       let index = 0;
   
